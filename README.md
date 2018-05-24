@@ -1,12 +1,19 @@
 # faceit-firebase
 
-> A Vue.js project
+> Simple App which fetch datas from faceit api and get your results instantly. Need more work on it :)
 
 ## Build Setup
 
 ``` bash
+
 # install dependencies
 npm install
+
+# install json-server for footer 
+npm i json-server --save
+
+# start json-server 
+json-server --watch user-data.json
 
 # serve with hot reload at localhost:8080
 npm run dev
