@@ -1,6 +1,6 @@
 # faceit-firebase
 
-> Simple App which fetch datas from faceit api and get your results instantly. Need more work on it :)
+> Simple App, which fetchs data from faceit api and render, get your results instantly. Need more work on it :)
 
 ## Build Setup
 
